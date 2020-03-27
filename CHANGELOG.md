@@ -1,5 +1,5 @@
 ## 20200326
-* 默认不开启 Full Cone NAT 与 Flow Offloading
+* 默认不开启 Full Cone NAT 与 Flow Offloading. Louis Zhang
 
 ## 20200311
 * 添加 xt_FLOWOFFLOAD
